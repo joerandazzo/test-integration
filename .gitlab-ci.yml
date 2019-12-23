@@ -1,6 +1,7 @@
 stages:
   - build
   
+  
 echo bravo:
   stage: build
   script: echo "hi"
